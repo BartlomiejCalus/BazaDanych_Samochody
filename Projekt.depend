@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1623663611 source:c:\users\user\desktop\projekt\main.cpp
+	<iostream>
+	"mainClass.h"
+	<string>
+
+1623666879 c:\users\user\desktop\projekt\mainclass.h
+	<string>
+
+1626037542 source:c:\users\user\desktop\pk\projekt\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"mainClass.h"
+	"fullElectricClass.h"
+	"hybridClass.h"
+	"funkcje.hpp"
+
+1626033223 c:\users\user\desktop\pk\projekt\mainclass.h
+	<string>
+
+1626038211 c:\users\user\desktop\pk\projekt\fullelectricclass.h
+	<fstream>
+
+1626038211 c:\users\user\desktop\pk\projekt\hybridclass.h
+
+1623839436 c:\users\user\desktop\pk\projekt\funkcje.h
+
+1625933554 c:\users\user\desktop\pk\projekt\funkcje.hpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<conio.h>
+	"funkcje.cpp"
+
+1626038211 c:\users\user\desktop\pk\projekt\funkcje.cpp
+	<string>
+
